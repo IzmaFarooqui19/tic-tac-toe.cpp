@@ -5,19 +5,10 @@ A console based Tic-Tac-Toe game in C++ demonstrating arrays, loops, and basic g
 - Two-player mode
 - Clear board display after each turn
 - Win and draw detection
-- Input validation for occupied spots
-
-## Sample Output
-   X | O | X
-  ---+---+---
-   O | X | O
-  ---+---+---
-   X | O | X
-  Player X wins!
-
+- Input validation for occupied spott
 
 ## Concepts Used:
--Arrays
--Loops
--Functions
--Game logic implementation
+- Arrays
+- Loops
+- Functions
+- Game logic implementation
